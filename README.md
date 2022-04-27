@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohdnoorain
 - 👀 I’m interested in Android and Web Development
-- 🌱 I’m currently learning Android
+- 🌱 I’m currently learning Ionic + Angular
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
